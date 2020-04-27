@@ -1,0 +1,3 @@
+[
+    {"caption": "Maya: Insert utcnow", "command": "maya_update_build_time"}
+]
